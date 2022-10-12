@@ -19,6 +19,9 @@ code {
 .cart-item .right-block{
   padding: 0 20px;
 }
+.cart-item .left-block{
+  border-radius: 5px;
+}
 .cart-item-actions{
   margin-top: 20px;
 }
